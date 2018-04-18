@@ -14,7 +14,7 @@ Time spent: 24 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.6.1
     
-  - [ ] GIF Walkthrough:![](file:///Users/meghnapai/Desktop/exploit1.gif)
+  - [ ] GIF Walkthrough:file:///Users/meghnapai/Desktop/exploit1.gif
   - [ ] Steps to recreate: 
 Login in as admin. 
 Go to add new post.
