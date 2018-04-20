@@ -30,7 +30,7 @@ When you hover over the link with the mouse, the alert should pop-up.
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: file:///Users/meghnapai/Desktop/exploit2.gif
+  - [ ] GIF Walkthrough: <img src="https://github.com/mpai000/websecurity/blob/master/exploit2.gif">
   - [ ] Steps to recreate: 
   Login as admin.
   Go to add a new post.
