@@ -44,7 +44,7 @@ When you hover over the link with the mouse, the alert should pop-up.
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.7.5
-  - [ ] GIF Walkthrough: file:///Users/meghnapai/Desktop/exploit3.gif
+  - [ ] GIF Walkthrough:<img src="https://github.com/mpai000/websecurity/blob/master/exploit3.gif"> 
   - [ ] Steps to recreate: 
     In your terminla type in mkfile -n 3m temp.jpg. This will make a temporary file of size 3MB on your desktoop. 
   Rename it to Test<img src= a onerror=alert('Hi!')>.jpg.
